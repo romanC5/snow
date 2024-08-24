@@ -17,9 +17,9 @@
 	<GameData
 		CameraPreset="hoods"
 		Category="bumper"
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="14"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_BUMPER_HEAVYDUTY_PIPE_DESC"

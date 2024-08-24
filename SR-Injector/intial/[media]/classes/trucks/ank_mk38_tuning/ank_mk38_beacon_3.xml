@@ -12,9 +12,9 @@
 		</Ignition>
 	</ModelAttachments>
 	<GameData
-		Price="900"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="17"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_PARKINGLIGHTS_TRI_TWO_DESC"
