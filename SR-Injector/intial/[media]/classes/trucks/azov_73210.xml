@@ -378,10 +378,10 @@
 	<Landmark Mesh="landmarks/azov_73210_lmk" MinScale="1.5" MaxScale="2.5" />
 	<HeadLight _template="Default" Pos="(5.239; 1.202; 0)" ParentFrame="BoneCabin_cdt" />
 	<GameData
-		Country="RU,CAS"
-		Price="66000"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="20"
+		UnlockByRank="1"
 	>
 		<WinchSocket Pos="(5.163; 0.621; -0.319)" />
 		<WinchSocket Pos="(5.163; 0.621; 0.319)" />

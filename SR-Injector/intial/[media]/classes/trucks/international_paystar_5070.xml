@@ -315,8 +315,8 @@
 	<Landmark Mesh="landmarks/international_paystar_5070_lmk" MinScale="1.8" MaxScale="3.8" />
 	<HeadLight _template="Default" Pos="(3.25; 0.535; 0)" ParentFrame="BoneCabin_cdt" />
 	<GameData
-		Country="US,NE"
-		Price="63400"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

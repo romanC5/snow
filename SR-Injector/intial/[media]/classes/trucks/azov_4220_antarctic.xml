@@ -439,10 +439,10 @@
 		Pos="(5.738; 1.265; 0)"
 	/>
 	<GameData
-		Country="RU,CAS"
-		Price="111600"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="26"
+		UnlockByRank="1"
 		FrameAlign="BoneBack_cdt"
 		FrameAlignOffset="(-3; 0; 0)"
 		ResetTruckAfterGateway="true"

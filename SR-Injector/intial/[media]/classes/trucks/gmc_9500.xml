@@ -323,8 +323,8 @@
 	<Landmark Mesh="landmarks/gmc_9500_lmk" MinScale="1.8" MaxScale="3.8" />
 	<HeadLight _template="Default" Pos="(4.523; 1.275; 0)" />
 	<GameData
-		Country="US,NE"
-		Price="10600"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
+		Price="0"
 		UnlockByExploration="true"
 		UnlockByRank="1"
 	>

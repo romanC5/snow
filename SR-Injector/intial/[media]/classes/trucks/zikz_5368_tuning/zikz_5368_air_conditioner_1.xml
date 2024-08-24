@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/zikz_5368_tuning/zikz_5368_air_conditioner_1" />
 	<GameData
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

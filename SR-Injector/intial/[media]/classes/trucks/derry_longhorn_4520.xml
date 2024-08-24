@@ -384,10 +384,10 @@
 	<Landmark Mesh="landmarks/derry_longhorn_4520_lmk" MinScale="1.8" MaxScale="3.8" />
 	<HeadLight _template="Default" Pos="(4.576; 1.033; 0)" ParentFrame="BoneCabin_cdt" />
 	<GameData
-		Country="US,NE"
-		Price="125500"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="24"
+		UnlockByRank="1"
 	>
 		<WinchSocket Pos="(4.432; 0.723; -0.481)" ParentFrame="BoneCabin_cdt" />
 		<WinchSocket Pos="(4.432; 0.723; 0.481)" ParentFrame="BoneCabin_cdt" />
