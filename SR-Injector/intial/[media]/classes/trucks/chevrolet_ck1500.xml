@@ -263,9 +263,9 @@
 	<Landmark Mesh="landmarks/chevrolet_ck1500_lmk" MinScale="1.8" MaxScale="3.8" />
 	<HeadLight _template="Default" Pos="(2.166; 1.038; 0)" />
 	<GameData
-		Country="US,NE"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
 		ExcludeAddons="stuff_hula_girl, stuff_masha"
-		Price="3000"
+		Price="1"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

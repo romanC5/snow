@@ -289,9 +289,9 @@
 	<Landmark Mesh="landmarks/dan_96320_01_lmk" MinScale="1.8" MaxScale="3.8" />
 	<HeadLight _template="Default" Pos="(6.922; 1.131; 0)" />
 	<GameData
-		Country="RU,CAS"
+		Country="US, RU, CA, BR, UK, FR, DE, JP, CN, IN, NE"
 		ExcludeAddons="frame_addon_flatbed_2"
-		Price="106800"
+		Price="0"
 		UnlockByExploration="true"
 		UnlockByRank="1"
 	>
