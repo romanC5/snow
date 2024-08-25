@@ -8,7 +8,7 @@
 	<PhysicsModel Mesh="trucks/ford_clt9000_tuning/ford_clt9000_bumper_02" />
 	<ModelAttachments _noinherit="true" />
 	<GameData
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="5"
 	>

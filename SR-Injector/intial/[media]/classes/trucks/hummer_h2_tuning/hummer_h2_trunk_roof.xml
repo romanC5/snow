@@ -24,7 +24,7 @@
 		CameraPreset="rear"
 		Category="miscellenious"
 		IsCustomizable="true"
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

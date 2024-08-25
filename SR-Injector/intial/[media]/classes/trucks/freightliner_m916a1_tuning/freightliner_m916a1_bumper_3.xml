@@ -8,7 +8,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/freightliner_m916a1_tuning/freightliner_m916a1_bumper_3"/>
 	<GameData
-		Price="1700"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="22"
 	>

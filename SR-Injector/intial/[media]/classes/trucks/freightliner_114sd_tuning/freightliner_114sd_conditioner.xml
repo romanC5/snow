@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/freightliner_114sd_tuning/freightliner_114sd_conditioner" />
 	<GameData
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

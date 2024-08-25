@@ -7,7 +7,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/don_71_tuning/don_71_front_bumper_2" />
 	<GameData
-		Price="1300"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="14"
 	>

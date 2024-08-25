@@ -3,7 +3,7 @@
 	<GameData
 		CameraPreset="roof"
 		Category="miscellenious"
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

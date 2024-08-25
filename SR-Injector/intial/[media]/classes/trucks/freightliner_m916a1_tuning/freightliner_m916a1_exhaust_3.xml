@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/freightliner_m916a1_tuning/freightliner_m916a1_exhaust_3" />
 	<GameData
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="26"
 	>

@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/don_71_tuning/don_71_horn_2" />
 	<GameData
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="18"
 	>

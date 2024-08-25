@@ -10,7 +10,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/ford_clt9000_tuning/ford_clt9000_exhaust_02" />
 	<GameData
-		Price="1000"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="7"
 	>

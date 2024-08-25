@@ -30,7 +30,7 @@
 	<GameData
 		CameraPreset="side_r"
 		Category="exhaust"
-		Price="900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

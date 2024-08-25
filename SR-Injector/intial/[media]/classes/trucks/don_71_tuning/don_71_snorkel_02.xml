@@ -3,7 +3,7 @@
 	<Snorkel Origin="(0.38; 1.553; -0.698)" />
 	<PhysicsModel Mesh="trucks/don_71_tuning/don_71_snorkel_02" />
 	<GameData
-		Price="2800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="21"
 	>

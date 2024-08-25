@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/ford_clt9000_tuning/ford_clt9000_exhaust_03" />
 	<GameData
-		Price="1400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="9"
 	>

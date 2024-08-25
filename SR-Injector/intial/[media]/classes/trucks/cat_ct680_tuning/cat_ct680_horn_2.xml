@@ -10,7 +10,7 @@
 		</Body>
 	</PhysicsModel>
 	<GameData
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="15"
 	>

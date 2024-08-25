@@ -5,7 +5,7 @@
 	<Snorkel _noinherit="true" Origin="(2.934; 2.223; -1.196)" />
 	<PhysicsModel Mesh="trucks/freightliner_114sd_tuning/freightliner_114sd_snorkel_2" />
 	<GameData
-		Price="2100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

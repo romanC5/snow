@@ -45,7 +45,7 @@
 		CameraPreset="addon_2"
 		Category="frame_addons"
 		IsCustomizable="true"
-		Price="1900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

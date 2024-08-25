@@ -3,7 +3,7 @@
 	<Snorkel Origin="(1.052; 1.904; -1.017)" />
 	<PhysicsModel Mesh="trucks/hummer_h2_tuning/hummer_h2_snorkel_2" />
 	<GameData
-		Price="3300"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="13"
 	>

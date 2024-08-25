@@ -8,7 +8,7 @@
 		CameraPreset="roof"
 		Category="miscellenious"
 		IsCustomizable="true"
-		Price="600"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="5"
 	>

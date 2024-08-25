@@ -3,7 +3,7 @@
 	<Snorkel Origin="(1.593; 1.832; -1.098)" />
 	<PhysicsModel Mesh="trucks/international_paystar_5070_tuning/international_paystar_5070_snorkel_2"/>
 	<GameData
-		Price="1100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

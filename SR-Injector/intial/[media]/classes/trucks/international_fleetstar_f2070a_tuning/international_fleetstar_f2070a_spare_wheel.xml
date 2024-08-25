@@ -14,7 +14,7 @@
 	<GameData
 		CameraPreset="spare_wheel"
 		Category="wheel_addon"
-		Price="1900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="16"
 	>

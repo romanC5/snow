@@ -30,7 +30,7 @@
 	<GameData
 		CameraPreset="roof"
 		Category="snorkel"
-		Price="4700"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="13"
 	>

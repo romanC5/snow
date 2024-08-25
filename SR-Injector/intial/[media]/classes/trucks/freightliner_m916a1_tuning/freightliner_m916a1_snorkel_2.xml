@@ -3,7 +3,7 @@
 	<Snorkel Origin="(1.854; 2.384; -1.048)" />
 	<PhysicsModel Mesh="trucks/freightliner_m916a1_tuning/freightliner_m916a1_snorkel_2"/>
 	<GameData
-		Price="2100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="18"
 	>

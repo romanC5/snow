@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/ford_clt9000_tuning/ford_clt9000_grill_01" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="7"
 	>

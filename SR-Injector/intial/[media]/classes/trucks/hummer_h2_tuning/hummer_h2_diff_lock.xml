@@ -5,7 +5,7 @@
 	<GameData
 		CameraPreset="hoods"
 		Category="diff_lock"
-		Price="3800"
+		Price="0"
 		UnlockByExploration="true"
 		UnlockByRank="1"
 	>

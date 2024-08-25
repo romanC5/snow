@@ -14,7 +14,7 @@
 	<Snorkel Origin="(1.162; 2.522; 1.074)" />
 	<PhysicsModel Mesh="trucks/derry_longhorn_3194_tuning/derry_longhorn_3194_snorkel_1" />
 	<GameData
-		Price="1400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

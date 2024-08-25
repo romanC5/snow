@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/azov_64131_tuning/azov_64131_air_conditioner_1" />
 	<GameData
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

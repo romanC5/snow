@@ -13,7 +13,7 @@
 	<MainHeadLight _noinherit="true" ExtraColor="g(255; 240; 230) x 5.5" />
 	<MainHeadLight _template="Multiply1" />
 	<GameData
-		Price="1900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="25"
 	>

@@ -52,7 +52,7 @@
 	<GameData
 		CameraPreset="rear"
 		Category="rear"
-		Price="900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="9"
 	>

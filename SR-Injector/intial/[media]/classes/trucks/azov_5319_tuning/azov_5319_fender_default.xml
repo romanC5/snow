@@ -60,7 +60,7 @@
 	<GameData
 		CameraPreset="rear"
 		Category="fender_rear"
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

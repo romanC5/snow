@@ -7,7 +7,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/international_scout_800_tuning/international_scout_800_front_bumper_3" />
 	<GameData
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="15"
 	>

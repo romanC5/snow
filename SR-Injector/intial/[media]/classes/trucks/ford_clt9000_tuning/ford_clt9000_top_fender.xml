@@ -8,7 +8,7 @@
 		CameraPreset="side_l"
 		Category="top"
 		IsCustomizable="true"
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

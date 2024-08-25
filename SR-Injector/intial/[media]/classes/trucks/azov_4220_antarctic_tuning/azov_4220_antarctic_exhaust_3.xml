@@ -8,7 +8,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/azov_4220_antarctic_tuning/azov_4220_antarctic_exhaust_3" />
 	<GameData
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="29"
 	>

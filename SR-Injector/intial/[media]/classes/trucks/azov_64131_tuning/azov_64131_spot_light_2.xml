@@ -30,7 +30,7 @@
 	</ModelAttachments>
 	<MainHeadLight _template="Multiply2"/>
 	<GameData
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="22"
 	>

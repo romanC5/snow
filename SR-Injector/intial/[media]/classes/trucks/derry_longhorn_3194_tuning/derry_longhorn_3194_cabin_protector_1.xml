@@ -27,7 +27,7 @@
 	<GameData
 		CameraPreset="side_r"
 		Category="miscellenious"
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

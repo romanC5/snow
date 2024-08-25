@@ -8,7 +8,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/azov_64131_tuning/azov_64131_bumper_1"/>
 	<GameData
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

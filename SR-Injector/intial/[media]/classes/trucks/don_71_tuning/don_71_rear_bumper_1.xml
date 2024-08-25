@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/don_71_tuning/don_71_rear_bumper_1" />
 	<GameData
-		Price="1000"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="11"
 	>

@@ -8,7 +8,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/derry_longhorn_4520_tuning/derry_longhorn_4520_exhaust_1" />
 	<GameData
-		Price="1100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

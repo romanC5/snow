@@ -3,7 +3,7 @@
 	<TruckData/>
 	<PhysicsModel Mesh="trucks/derry_longhorn_3194_tuning/derry_longhorn_3194_exhaust_3" />
 	<GameData
-		Price="1700"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="17"
 	>

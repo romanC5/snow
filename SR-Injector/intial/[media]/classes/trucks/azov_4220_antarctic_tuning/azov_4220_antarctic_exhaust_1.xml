@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/azov_4220_antarctic_tuning/azov_4220_antarctic_exhaust_1" />
 	<GameData
-		Price="1100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

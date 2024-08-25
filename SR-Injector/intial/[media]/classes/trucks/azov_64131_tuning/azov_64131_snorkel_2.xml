@@ -4,7 +4,7 @@
 	<Snorkel Origin="(1.315; 3.603; 0.001)" />
 	<PhysicsModel Mesh="trucks/azov_64131_tuning/azov_64131_snorkel_2" />
 	<GameData
-		Price="3200"
+	    Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="22"
 	>

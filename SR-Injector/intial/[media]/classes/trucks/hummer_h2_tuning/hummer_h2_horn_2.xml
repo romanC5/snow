@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/hummer_h2_tuning/hummer_h2_horn_2" />
 	<GameData
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="12"
 	>

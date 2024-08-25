@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/azov_64131_tuning/azov_64131_exhaust_2" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="16"
 	>

@@ -6,7 +6,7 @@
 	<GameData
 		CameraPreset="side_l"
 		Category="snorkel"
-		Price="5000"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="29"
 	>

@@ -3,7 +3,7 @@
 	<PhysicsModel Mesh="trucks/dan_96320_tuning/dan_96320_exhaust_2" />
 	<ModelAttachments _noinherit="true" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="15"
 	>

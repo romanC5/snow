@@ -11,7 +11,7 @@
 	<GameData
 		CameraPreset="hoods_default"
 		Category="miscellenious"
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

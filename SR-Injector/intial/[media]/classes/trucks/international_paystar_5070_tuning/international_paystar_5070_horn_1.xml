@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/international_paystar_5070_tuning/international_paystar_5070_horn_1" />
 	<GameData
-		Price="300"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

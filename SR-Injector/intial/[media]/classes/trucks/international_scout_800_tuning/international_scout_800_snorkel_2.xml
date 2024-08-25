@@ -3,7 +3,7 @@
 	<Snorkel Origin="(0.652; 1.408; -0.910)" />
 	<PhysicsModel Mesh="trucks/international_scout_800_tuning/international_scout_800_snorkel_2" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="11"
 	>

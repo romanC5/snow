@@ -16,7 +16,7 @@
 	<GameData
 		CameraPreset="side_r"
 		Category="top"
-		Price="300"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

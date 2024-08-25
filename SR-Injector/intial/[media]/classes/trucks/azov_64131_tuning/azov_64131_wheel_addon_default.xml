@@ -19,7 +19,7 @@
 	<GameData
 		CameraPreset="addon_2"
 		Category="wheel_addon"
-		Price="2700"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

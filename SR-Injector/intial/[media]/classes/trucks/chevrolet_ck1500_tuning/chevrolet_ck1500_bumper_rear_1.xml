@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/chevrolet_ck1500_tuning/chevrolet_ck1500_bumper_rear_1" />
 	<GameData
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="10"
 	>
