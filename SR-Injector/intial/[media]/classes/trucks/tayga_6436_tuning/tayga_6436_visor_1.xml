@@ -17,7 +17,7 @@
 		_noinherit="true"
 		CameraPreset="side_l"
 		Category="fender_front"
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

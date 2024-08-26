@@ -12,7 +12,7 @@
 	<GameData
 		CameraPreset="roof"
 		Category="fender_front"
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="19"
 	>

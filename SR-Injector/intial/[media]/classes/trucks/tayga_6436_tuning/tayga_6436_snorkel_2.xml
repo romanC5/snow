@@ -4,7 +4,7 @@
 	<Snorkel Origin="(2.229; 2.686; -1.043)" />
 	<PhysicsModel Mesh="trucks/tayga_6436_tuning/tayga_6436_snorkel_2" />
 	<GameData
-		Price="4900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="17"
 	>

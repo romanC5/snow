@@ -4,7 +4,7 @@
 	<Snorkel Origin="(2.8; 2.93; -1.493)" />
 	<PhysicsModel Mesh="trucks/kolob_74941_tuning/kolob_74941_snorkel_2" />
 	<GameData
-		Price="2800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="17"
 	>

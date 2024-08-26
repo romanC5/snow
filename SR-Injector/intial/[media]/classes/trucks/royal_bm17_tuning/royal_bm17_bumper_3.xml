@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/royal_bm17_tuning/royal_bm17_bumper_3"/>
 	<GameData
-		Price="1900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="19"
 	>

@@ -3,7 +3,7 @@
 	<GameData
 		CameraPreset="rear"
 		Category="miscellenious"
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="10"
 	>

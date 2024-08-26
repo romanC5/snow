@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/tayga_6436_tuning/tayga_6436_horn_2" />
 	<GameData
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="14"
 	>

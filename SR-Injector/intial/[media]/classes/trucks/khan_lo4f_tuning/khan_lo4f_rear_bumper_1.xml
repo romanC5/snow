@@ -2,7 +2,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/khan_lo4f_tuning/khan_lo4f_rear_bumper_1" />
 	<GameData
-		Price="1100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="12"
 	>

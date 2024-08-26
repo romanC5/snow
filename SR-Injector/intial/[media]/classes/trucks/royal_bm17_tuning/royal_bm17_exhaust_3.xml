@@ -4,7 +4,7 @@
 	<PhysicsModel Mesh="trucks/royal_bm17_tuning/royal_bm17_exhaust_3" />
 	<ModelAttachments _noinherit="true" />
 	<GameData
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="21"
 	>

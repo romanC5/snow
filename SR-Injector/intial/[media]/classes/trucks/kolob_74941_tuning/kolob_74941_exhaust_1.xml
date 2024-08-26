@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/kolob_74941_tuning/kolob_74941_exhaust_1" />
 	<GameData
-		Price="900"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

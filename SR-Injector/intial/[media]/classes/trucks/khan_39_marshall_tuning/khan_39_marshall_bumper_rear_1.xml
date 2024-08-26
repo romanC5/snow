@@ -8,7 +8,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/khan_39_marshall_tuning/khan_39_marshall_bumper_rear_1" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

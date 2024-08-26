@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/royal_bm17_tuning/royal_bm17_air_conditioner_default" />
 	<GameData
-		Price="600"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

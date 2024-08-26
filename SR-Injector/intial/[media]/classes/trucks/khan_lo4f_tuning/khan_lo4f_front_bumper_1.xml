@@ -7,7 +7,7 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/khan_lo4f_tuning/khan_lo4f_front_bumper_1" />
 	<GameData
-		Price="700"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="13"
 	>

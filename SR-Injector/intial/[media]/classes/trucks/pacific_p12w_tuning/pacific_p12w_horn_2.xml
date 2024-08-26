@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/pacific_p12w_tuning/pacific_p12w_horn_2" />
 	<GameData
-		Price="500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="17"
 	>

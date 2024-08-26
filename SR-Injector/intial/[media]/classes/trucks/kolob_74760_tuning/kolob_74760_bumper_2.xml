@@ -15,7 +15,7 @@
 		Category="bumper"
 		UnlockByExploration="false" 
 		UnlockByRank="24"
-		Price="1500"
+		Price="0"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_BUMPER_KOLOB_HEADLIGHTMESH_DESC"

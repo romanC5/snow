@@ -13,7 +13,7 @@
 	<GameData
 		CameraPreset="roof"
 		Category="exhaust"
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="17"
 	>
