@@ -8,7 +8,7 @@
 	<PhysicsModel Mesh="trucks/ws_6900xd_twin_tuning/ws_6900xd_twin_bumper_3" />
 	<ModelAttachments _noinherit="true" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="9"
 	>

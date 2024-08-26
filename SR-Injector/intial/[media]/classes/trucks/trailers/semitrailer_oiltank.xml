@@ -169,7 +169,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/semitrailer_oiltank_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData Price="6000">
+	<GameData Price="0">
 		<WinchSocket Pos="(-6.823; 1.454; 0.367)" />
 		<WinchSocket Pos="(-6.823; 1.454; -0.367)" />
 		<WinchSocket Pos="(-1.204; 1.454; 0.445)" />

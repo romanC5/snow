@@ -3,7 +3,7 @@
 	<Snorkel Origin="(1.872; 2.324; -0.997)" />
 	<PhysicsModel Mesh="trucks/voron_ae4380_tuning/voron_ae4380_snorkel_2" />
 	<GameData
-		Price="2400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

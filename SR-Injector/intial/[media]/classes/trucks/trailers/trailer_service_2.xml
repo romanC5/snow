@@ -135,7 +135,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/trailer_service_2_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData Price="6400">
+	<GameData Price="0">
 		<WinchSocket Pos="(-3.086; 1.026; 0)" />
 		<WinchSocket Pos="(-2.696; 1.324; -1.293)" />
 		<WinchSocket Pos="(-2.696; 1.324; 1.293)" />

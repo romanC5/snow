@@ -4,7 +4,7 @@
 	<Snorkel Origin="(2.075; 2.259; 1.101)" />
 	<PhysicsModel Mesh="trucks/voron_d53233_tuning/voron_d53233_snorkel_4" />
 	<GameData
-		Price="1500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

@@ -16,9 +16,9 @@
 	<GameData
 		CameraPreset="roof"
 		Category="top"
-		Price="300"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="16"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_ROOFBAR_FOGLIGHTS_DESC"

@@ -2,9 +2,9 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/tuz_420_tatarin_tuning/tuz_420_tatarin_horn_2" />
 	<GameData
-		Price="1000"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="27"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_HORNS_TWIN_TWOSIDE_DESC"

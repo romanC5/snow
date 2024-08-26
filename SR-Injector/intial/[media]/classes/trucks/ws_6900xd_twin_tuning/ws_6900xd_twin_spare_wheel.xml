@@ -18,7 +18,7 @@
 	<GameData
 		CameraPreset="rear"
 		Category="wheel_addon"
-		Price="2500"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="13"
 	>

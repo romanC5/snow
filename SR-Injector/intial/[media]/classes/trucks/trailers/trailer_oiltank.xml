@@ -140,7 +140,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/trailer_oiltank_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData Price="4900">
+	<GameData Price="0">
 		<WinchSocket Pos="(1.458; 1.201; 1.273)" ParentFrame="BoneChassis_cdt" />
 		<WinchSocket Pos="(1.458; 1.201; -1.273)" ParentFrame="BoneChassis_cdt" />
 		<WinchSocket Pos="(-0.8; 1.201; 1.273)" ParentFrame="BoneChassis_cdt" />

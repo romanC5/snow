@@ -213,7 +213,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/semitrailer_m747_01_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData Price="6400">
+	<GameData Price="0">
 		<WinchSocket WinchableWhenAttached="false" Pos="(6.002; 1.717; 0)" />
 		<WinchSocket Pos="(-1.842; 1.213; -1.432)" />
 		<WinchSocket Pos="(-1.842; 1.213; 1.432)" />

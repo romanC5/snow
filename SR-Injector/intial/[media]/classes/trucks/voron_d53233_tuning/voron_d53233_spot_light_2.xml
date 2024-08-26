@@ -36,9 +36,9 @@
 	<GameData
 		CameraPreset="side_l"
 		Category="top"
-		Price="400"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="17"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_ROOFBAR_BEACONS_FOGLIGHTS_DESC"

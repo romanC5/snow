@@ -241,7 +241,7 @@
 	</ModelAttachments>
 	<!--<Landmark Mesh="landmarks/trailer_sideboard_2_lmk" MinScale="1.2" MaxScale="2.2" />-->
 	<Landmark Mesh="landmarks/trailer_addon_maintainer_lmk" />
-	<GameData Price="7500">
+	<GameData Price="0">
 		<WinchSocket Pos="(-3.179; 1.256; 0.446)" ParentFrame="BoneCargo_1_cdt" />
 		<WinchSocket Pos="(-3.179; 1.256; -0.446)" ParentFrame="BoneCargo_1_cdt" />
 		<WinchSocket Pos="(1.586; 1.355; 1.289)" ParentFrame="BoneCargo_2_cdt" />

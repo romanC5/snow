@@ -8,7 +8,7 @@
 		Category="snorkel"
 		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="20"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_SNORKEL_FLATCAP_DESC"

@@ -4,9 +4,9 @@
 	<GameData
 		CameraPreset="roof"
 		Category="snorkel"
-		Price="2500"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="16"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_SNORKEL_ROUNDCAP_SHORT_DESC"

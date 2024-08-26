@@ -168,7 +168,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/semitrailer_heavy_construction_equipment_01_lmk" MinScale="0.7" MaxScale="1.5" />
-	<GameData Price="7500" IsQuest="true">
+	<GameData Price="0" IsQuest="true">
 		<WinchSocket Pos="(4.856; 1.497; -1.791)" />
 		<CraneSocket Pos="(4.856; 1.497; -1.791)" />
 		<WinchSocket Pos="(4.856; 1.497; 1.791)" />

@@ -19,7 +19,7 @@
 	<GameData
 		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="18"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_BUMPER_FOGLIGHTER_DESC"

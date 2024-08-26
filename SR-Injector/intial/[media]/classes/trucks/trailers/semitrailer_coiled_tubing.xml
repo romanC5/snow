@@ -175,7 +175,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/semitrailer_coiled_tubing_01_lmk" MinScale="0.7" MaxScale="1.5" />
-	<GameData IsQuest="true" Price="4700">
+	<GameData IsQuest="true" Price="0">
 		<WinchSocket Pos="(4.856; 1.497; -1.791)" />
 		<WinchSocket Pos="(4.856; 1.497; 1.791)" />
 		<WinchSocket Pos="(-1.165; 1.502; -1.791)" />
