@@ -3,7 +3,7 @@
 <TruckAddon>
 	<PhysicsModel _noinherit="true" Mesh="trucks/ws_4964_white_tuning/ws_4964_white_horn_3"/>
 	<GameData
-		Price="600"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="10"
 	>

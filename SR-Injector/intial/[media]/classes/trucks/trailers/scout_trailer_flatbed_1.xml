@@ -148,7 +148,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/scout_trailer_flatbed_1_lmk" MinScale="1.5" MaxScale="3.5" />
-	<GameData Price="2700">
+	<GameData Price="0">
 		<WinchSocket WinchableWhenAttached="false" Pos="(4.5; 0.75; 0)" />
 		<WinchSocket Pos="(-1.221; 0.815; 0.847)" />
 		<WinchSocket Pos="(-1.221; 0.815; -0.847)" />

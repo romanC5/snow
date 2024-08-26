@@ -11,9 +11,9 @@
 	<GameData
 		CameraPreset="roof"
 		Category="miscellenious"
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="18"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_BEACONS_TRISQUARE_DESC"

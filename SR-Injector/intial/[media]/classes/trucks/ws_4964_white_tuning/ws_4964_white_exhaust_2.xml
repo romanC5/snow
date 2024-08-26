@@ -2,9 +2,9 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/ws_4964_white_tuning/ws_4964_white_exhaust_2" />
 	<GameData
-		Price="1100"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="12"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_EXHAUST_MUZZLE_DESC"

@@ -249,7 +249,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/trailer_flatbed_ramps_4_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData ExcludedCargoTypes="CargoPlane, CargoWing1, CargoWing2" Price="4200">
+	<GameData ExcludedCargoTypes="CargoPlane, CargoWing1, CargoWing2" Price="0">
 		<WinchSocket Pos="(-4.513; 1.122; 1.242)" />
 		<WinchSocket Pos="(-4.513; 1.122; -1.242)" />
 		<WinchSocket Pos="(0; 1.127; 1.2)" />

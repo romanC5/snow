@@ -7,7 +7,7 @@
 	<GameData
 		CameraPreset="addon_2"
 		Category="snorkel"
-		Price="2100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

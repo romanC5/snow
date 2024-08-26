@@ -193,7 +193,7 @@
 		</Ignition>
 	</ModelAttachments>
 	<Landmark Mesh="landmarks/trailer_flatbed_special_2_lmk" MinScale="1.2" MaxScale="2.2" />
-	<GameData IsQuest="true" Price="3400">
+	<GameData IsQuest="true" Price="0">
 		<WinchSocket ParentFrames="BoneCargo_2_cdt" Pos="(1.133; 1.123; 1.249)" />
 		<WinchSocket ParentFrames="BoneCargo_2_cdt" Pos="(1.133; 1.123; -1.249)" />
 		<WinchSocket ParentFrames="BoneCargo_1_cdt" Pos="(-3.385; 0.934; 0.498)" />

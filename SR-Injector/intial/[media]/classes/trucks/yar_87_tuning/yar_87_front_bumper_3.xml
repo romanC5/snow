@@ -8,9 +8,9 @@
 	</TruckData>
 	<PhysicsModel Mesh="trucks/yar_87_tuning/yar_87_front_bumper_3" />
 	<GameData
-		Price="1300"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="16"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_BUMPER_PIPEWELDED_DESC"

@@ -87,7 +87,7 @@
 		CameraPreset="roof"
 		Category="frame_addons"
 		IsCustomizable="true"
-		Price="2100"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

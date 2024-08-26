@@ -22,7 +22,7 @@
 	<GameData
 		CameraPreset="hoods"
 		Category="bumper"
-		Price="1400"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

@@ -16,7 +16,7 @@
 	<GameData
 		CameraPreset="roof"
 		Category="top"
-		Price="800"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>

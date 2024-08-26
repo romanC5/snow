@@ -2,9 +2,9 @@
 <TruckAddon>
 	<PhysicsModel Mesh="trucks/voron_ae4380_tuning/voron_ae4380_exhaust_2" />
 	<GameData
-		Price="1200"
+		Price="0"
 		UnlockByExploration="false"
-		UnlockByRank="17"
+		UnlockByRank="1"
 	>
 		<UiDesc
 			UiDesc="UI_TUNING_EXHAUST_MUZZLE_DESC"

@@ -3,7 +3,7 @@
 	<GameData
 		CameraPreset="addon_1"
 		Category="miscellenious"
-		Price="200"
+		Price="0"
 		UnlockByExploration="false"
 		UnlockByRank="1"
 	>
